@@ -1,5 +1,5 @@
 # Ocular-Trauma-Oncall-Checklist
-Getting ready for an ocular trauma consult or medical rotation in ophthalmology? I built a complete, evidence-based copy&amp;paste template so you never forget a step.
+Getting ready for an ocular trauma consult or medical rotation in ophthalmology? I built a complete, evidence-based copy&paste template so you never forget a step.
 
 OCULAR TRAUMA OPH FINDING TEMPLATE
 Mechanism of injury: Blunt trauma (fist/ball/fall/MVC) / Sharp trauma / Mixed / Foreign body / Burn / Bite
